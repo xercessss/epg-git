@@ -1,0 +1,8 @@
+{
+  "crons": [
+    {
+      "path": "/api/grab?site=bein.com",
+      "schedule": "*/15 * * * *"
+    }
+  ]
+}
