@@ -2,9 +2,9 @@
 <channels>
   <channel site="elcinema.com" lang="ar" xmltv_id="ThikrayatTV.sa" site_id="1366">Thikrayat Tv</channel>
   <channel site="elcinema.com" lang="en" xmltv_id="" site_id="1205">OSN Ya Hala</channel>
-  <channel site="elcinema.com" lang="en" xmltv_id="" site_id="1211">OSN TV Movies A...</channel>
-  <channel site="elcinema.com" lang="en" xmltv_id="" site_id="1213">OSN TV Movies P...</channel>
-  <channel site="elcinema.com" lang="en" xmltv_id="" site_id="1231">OSN TV Movies C...</channel>
+  <channel site="elcinema.com" lang="en" xmltv_id="OSNMoviesAction.ae" site_id="1211">OSN TV Movies Action</channel>
+  <channel site="elcinema.com" lang="en" xmltv_id="OSNMoviesPremiere.ae" site_id="1213">OSN TV Movies Premiere</channel>
+  <channel site="elcinema.com" lang="en" xmltv_id="OSNMoviesComedy.ae" site_id="1231">OSN TV Movies Comedy</channel>
   <channel site="elcinema.com" lang="en" xmltv_id="" site_id="1232">OSN TV Kids</channel>
   <channel site="elcinema.com" lang="en" xmltv_id="" site_id="1246">LDC</channel>
   <channel site="elcinema.com" lang="en" xmltv_id="" site_id="1257">OSN TV Comedy</channel>
@@ -20,9 +20,9 @@
   <channel site="elcinema.com" lang="en" xmltv_id="" site_id="1373">Mix ONE</channel>
   <channel site="elcinema.com" lang="en" xmltv_id="" site_id="1380">atv</channel>
   <channel site="elcinema.com" lang="en" xmltv_id="" site_id="1383">WTV</channel>
-  <channel site="elcinema.com" lang="en" xmltv_id="" site_id="1390">OSN TV Yahala B...</channel>
-  <channel site="elcinema.com" lang="en" xmltv_id="" site_id="1391">OSN TV Movies H...</channel>
-  <channel site="elcinema.com" lang="en" xmltv_id="" site_id="1392">OSN TV Movies F...</channel>
+  <channel site="elcinema.com" lang="en" xmltv_id="" site_id="1390">OSN TV Yahala Bilaraby</channel>
+  <channel site="elcinema.com" lang="en" xmltv_id="" site_id="1391">OSN TV Movies Hollywood</channel>
+  <channel site="elcinema.com" lang="en" xmltv_id="" site_id="1392">OSN TV Movies Family</channel>
   <channel site="elcinema.com" lang="en" xmltv_id="" site_id="1393">OSN TV One</channel>
   <channel site="elcinema.com" lang="en" xmltv_id="" site_id="1394">OSN TV Showcase</channel>
   <channel site="elcinema.com" lang="en" xmltv_id="" site_id="1395">OSN TV Crime</channel>
