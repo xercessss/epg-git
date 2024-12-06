@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
   <channel site="elcinema.com" lang="ar" xmltv_id="ThikrayatTV.sa" site_id="1366">Thikrayat Tv</channel>
-  <channel site="elcinema.com" lang="en" xmltv_id="" site_id="1205">OSN Ya Hala</channel>
-  <channel site="elcinema.com" lang="en" xmltv_id="" site_id="1232">OSN TV Kids</channel>
-  <channel site="elcinema.com" lang="en" xmltv_id="" site_id="1246">LDC</channel>
-  <channel site="elcinema.com" lang="en" xmltv_id="" site_id="1257">OSN TV Comedy</channel>
-  <channel site="elcinema.com" lang="en" xmltv_id="" site_id="1266">National Geogra...</channel>
-  <channel site="elcinema.com" lang="en" xmltv_id="" site_id="1272">Discovery</channel>
-  <channel site="elcinema.com" lang="en" xmltv_id="" site_id="1275">National Geogra...</channel>
-  <channel site="elcinema.com" lang="en" xmltv_id="" site_id="1285">Osn Ya Hala Aflam</channel>
   <channel site="elcinema.com" lang="en" xmltv_id="" site_id="1308">Watania1</channel>
   <channel site="elcinema.com" lang="en" xmltv_id="" site_id="1334">Watania 2</channel>
   <channel site="elcinema.com" lang="en" xmltv_id="" site_id="1349">Iraqia TV</channel>
-  <channel site="elcinema.com" lang="en" xmltv_id="" site_id="1355">Mix</channel>
+  <channel site="elcinema.com" lang="en" xmltv_id="Mix" site_id="1355">Mix</channel>
   <channel site="elcinema.com" lang="en" xmltv_id="" site_id="1360">Salam TV</channel>
-  <channel site="elcinema.com" lang="en" xmltv_id="" site_id="1373">Mix ONE</channel>
+  <channel site="elcinema.com" lang="en" xmltv_id="MixONE" site_id="1373">Mix ONE</channel>
   <channel site="elcinema.com" lang="en" xmltv_id="" site_id="1380">atv</channel>
   <channel site="elcinema.com" lang="en" xmltv_id="" site_id="1383">WTV</channel>
-  <channel site="elcinema.com" lang="en" xmltv_id="" site_id="1390">OSN TV Yahala Bilaraby</channel>
-  <channel site="elcinema.com" lang="en" xmltv_id="" site_id="1391">OSN TV Movies Hollywood</channel>
-  <channel site="elcinema.com" lang="en" xmltv_id="" site_id="1392">OSN TV Movies Family</channel>
-  <channel site="elcinema.com" lang="en" xmltv_id="" site_id="1393">OSN TV One</channel>
-  <channel site="elcinema.com" lang="en" xmltv_id="" site_id="1394">OSN TV Showcase</channel>
-  <channel site="elcinema.com" lang="en" xmltv_id="" site_id="1395">OSN TV Crime</channel>
-  <channel site="elcinema.com" lang="en" xmltv_id="" site_id="1396">OSN TV Now</channel>
   <channel site="elcinema.com" lang="en" xmltv_id="" site_id="1397">‎Al Nahar Noor‎</channel>
   <channel site="elcinema.com" lang="en" xmltv_id="2MInternational.ma" site_id="1353">2M TV</channel>
   <channel site="elcinema.com" lang="en" xmltv_id="OSNMoviesAction.ae" site_id="1211">OSN Movies Action</channel>
   <channel site="elcinema.com" lang="en" xmltv_id="OSNMoviesPremiere.ae" site_id="1213">OSN Movies Premiere</channel>
   <channel site="elcinema.com" lang="en" xmltv_id="OSNMoviesComedy.ae" site_id="1231">OSN Movies Comedy</channel>
+  <channel site="elcinema.com" lang="en" xmltv_id="OSNYaHala" site_id="1205">OSN Ya Hala</channel>
+  <channel site="elcinema.com" lang="en" xmltv_id="OSNTVKids" site_id="1232">OSN TV Kids</channel>
+  <channel site="elcinema.com" lang="en" xmltv_id="LDC" site_id="1246">LDC</channel>
+  <channel site="elcinema.com" lang="en" xmltv_id="OSNTVComedy" site_id="1257">OSN TV Comedy</channel>
+  <channel site="elcinema.com" lang="en" xmltv_id="NationalGeographic" site_id="1266">National Geographic</channel>
+  <channel site="elcinema.com" lang="en" xmltv_id="Discovery" site_id="1272">Discovery</channel>
+  <channel site="elcinema.com" lang="en" xmltv_id="NationalGeograhicwild" site_id="1275">National Geograhic wild</channel>
+  <channel site="elcinema.com" lang="en" xmltv_id="OsnYaHalaAflam" site_id="1285">Osn Ya Hala Aflam</channel>
+  <channel site="elcinema.com" lang="en" xmltv_id="OSNYahalaBilaraby" site_id="1390">OSN TV Yahala Bilaraby</channel>
+  <channel site="elcinema.com" lang="en" xmltv_id="OSNMoviesHollywood" site_id="1391">OSN TV Movies Hollywood</channel>
+  <channel site="elcinema.com" lang="en" xmltv_id="OSNMoviesFamily" site_id="1392">OSN TV Movies Family</channel>
+  <channel site="elcinema.com" lang="en" xmltv_id="OSNOne<" site_id="1393">OSN TV One</channel>
+  <channel site="elcinema.com" lang="en" xmltv_id="OSNShowcase" site_id="1394">OSN TV Showcase</channel>
+  <channel site="elcinema.com" lang="en" xmltv_id="OSNTVCrime" site_id="1395">OSN TV Crime</channel>
+  <channel site="elcinema.com" lang="en" xmltv_id="OSNTVNow" site_id="1396">OSN TV Now</channel>
   <channel site="elcinema.com" lang="en" xmltv_id="AbuDhabiTV.ae" site_id="1136">Abu Dhabi TV</channel>
   <channel site="elcinema.com" lang="en" xmltv_id="AlAoulaMiddleEast.ma" site_id="1312">Al Aoula Morocco</channel>
   <channel site="elcinema.com" lang="en" xmltv_id="AlArabyTV2.uk" site_id="1382">Alaraby TV 2</channel>
