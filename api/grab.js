@@ -1,4 +1,4 @@
-import { exec } from 'child_process';
+/* import { exec } from 'child_process';
 
 export default function handler(req, res) {
   const site = req.query.site || 'bein.com'; // Default site
@@ -16,3 +16,4 @@ export default function handler(req, res) {
     return res.status(200).json({ message: 'EPG grabbed successfully', output: stdout });
   });
 }
+*/
