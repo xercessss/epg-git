@@ -2,9 +2,6 @@
 <channels>
   <channel site="elcinema.com" lang="ar" xmltv_id="ThikrayatTV.sa" site_id="1366">Thikrayat Tv</channel>
   <channel site="elcinema.com" lang="en" xmltv_id="" site_id="1205">OSN Ya Hala</channel>
-  <channel site="elcinema.com" lang="en" xmltv_id="OSNMoviesAction.ae" site_id="1211">OSN TV Movies Action</channel>
-  <channel site="elcinema.com" lang="en" xmltv_id="OSNMoviesPremiere.ae" site_id="1213">OSN TV Movies Premiere</channel>
-  <channel site="elcinema.com" lang="en" xmltv_id="OSNMoviesComedy.ae" site_id="1231">OSN TV Movies Comedy</channel>
   <channel site="elcinema.com" lang="en" xmltv_id="" site_id="1232">OSN TV Kids</channel>
   <channel site="elcinema.com" lang="en" xmltv_id="" site_id="1246">LDC</channel>
   <channel site="elcinema.com" lang="en" xmltv_id="" site_id="1257">OSN TV Comedy</channel>
@@ -29,6 +26,9 @@
   <channel site="elcinema.com" lang="en" xmltv_id="" site_id="1396">OSN TV Now</channel>
   <channel site="elcinema.com" lang="en" xmltv_id="" site_id="1397">‎Al Nahar Noor‎</channel>
   <channel site="elcinema.com" lang="en" xmltv_id="2MInternational.ma" site_id="1353">2M TV</channel>
+  <channel site="elcinema.com" lang="en" xmltv_id="OSNMoviesAction.ae" site_id="1211">OSN Movies Action</channel>
+  <channel site="elcinema.com" lang="en" xmltv_id="OSNMoviesPremiere.ae" site_id="1213">OSN Movies Premiere</channel>
+  <channel site="elcinema.com" lang="en" xmltv_id="OSNMoviesComedy.ae" site_id="1231">OSN Movies Comedy</channel>
   <channel site="elcinema.com" lang="en" xmltv_id="AbuDhabiTV.ae" site_id="1136">Abu Dhabi TV</channel>
   <channel site="elcinema.com" lang="en" xmltv_id="AlAoulaMiddleEast.ma" site_id="1312">Al Aoula Morocco</channel>
   <channel site="elcinema.com" lang="en" xmltv_id="AlArabyTV2.uk" site_id="1382">Alaraby TV 2</channel>
