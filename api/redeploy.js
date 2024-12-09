@@ -1,6 +1,6 @@
 // /api/redeploy.js
 export default async function handler(req, res) {
-    const deploymentId = "eziszsqmv"; // Replace with your actual deployment ID
+    const deploymentId = "h597k1b1h"; // Replace with your actual deployment ID
     const response = await fetch(`https://api.vercel.com/v1/deployments/${deploymentId}/redeploy`, {
         method: 'POST',
         headers: {
