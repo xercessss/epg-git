@@ -1,24 +1,26 @@
-export default async function handler(req, res) {
+const fetch = require("node-fetch");
+
+const triggerDeployment = async () => {
+  const VERCEL_API_URL = "https://api.vercel.com/v13/deployments";
   const VERCEL_TOKEN = "MOl6g2otBr9VlKFwYptyGJIa";
   const PROJECT_NAME = "epg-git";
-  const TEAM_ID = ""; // Optional if you're using a team
+  const TEAM_ID = ""; // Optional if you're not in a team
+
+  const payload = {
+    name: PROJECT_NAME,
+    target: "production",
+    // No "files" field unless necessary
+  };
 
   try {
-    const response = await fetch(
-      `https://api.vercel.com/v13/deployments`,
-      {
-        method: "POST",
-        headers: {
-          Authorization: `Bearer ${VERCEL_TOKEN}`,
-          "Content-Type": "application/json",
-        },
-        body: JSON.stringify({
-          name: PROJECT_NAME,
-          target: "production",
-          teamId: TEAM_ID,
-        }),
-      }
-    );
+    const response = await fetch(VERCEL_API_URL, {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+        Authorization: `Bearer ${VERCEL_TOKEN}`,
+      },
+      body: JSON.stringify(payload),
+    });
 
     const data = await response.json();
 
@@ -26,9 +28,13 @@ export default async function handler(req, res) {
       throw new Error(data.error.message || "Deployment failed");
     }
 
-    res.status(200).json({ message: "Deployment triggered!", data });
+    console.log("Deployment triggered successfully:", data);
   } catch (error) {
-    console.error(error);
-    res.status(500).json({ error: error.message });
+    console.error("Error triggering deployment:", error);
   }
-}
+};
+
+triggerDeployment();
+
+
+
