@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
   <channel site="elcinema.com" lang="ar" xmltv_id="ThikrayatTV.sa" site_id="1366">Thikrayat Tv</channel>
-  <channel site="elcinema.com" lang="en" xmltv_id="" site_id="1308">Watania1</channel>
-  <channel site="elcinema.com" lang="en" xmltv_id="" site_id="1334">Watania 2</channel>
-  <channel site="elcinema.com" lang="en" xmltv_id="" site_id="1349">Iraqia TV</channel>
   <channel site="elcinema.com" lang="en" xmltv_id="Mix" site_id="1355">Mix</channel>
   <channel site="elcinema.com" lang="en" xmltv_id="" site_id="1360">Salam TV</channel>
   <channel site="elcinema.com" lang="en" xmltv_id="MixONE" site_id="1373">Mix ONE</channel>
-  <channel site="elcinema.com" lang="en" xmltv_id="" site_id="1380">atv</channel>
-  <channel site="elcinema.com" lang="en" xmltv_id="" site_id="1383">WTV</channel>
-  <channel site="elcinema.com" lang="en" xmltv_id="" site_id="1397">‎Al Nahar Noor‎</channel>
   <channel site="elcinema.com" lang="en" xmltv_id="2MInternational.ma" site_id="1353">2M TV</channel>
   <channel site="elcinema.com" lang="en" xmltv_id="OSNMoviesAction.ae" site_id="1211">OSN Movies Action</channel>
   <channel site="elcinema.com" lang="en" xmltv_id="OSNMoviesPremiere.ae" site_id="1213">OSN Movies Premiere</channel>
