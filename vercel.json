@@ -1,7 +1,5 @@
 {
   "functions": {
-    "api/redeploy.js": {
-      "schedule": "@hourly"
-    }
+    "api/redeploy.js": {}
   }
 }
