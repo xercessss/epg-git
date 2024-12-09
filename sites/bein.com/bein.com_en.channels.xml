@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
-  <channel site="bein.com" lang="en" xmltv_id="AlkassEight.qa" site_id="sports#40">40</channel>
-  <channel site="bein.com" lang="en" xmltv_id="AlkassFive.qa" site_id="sports#37">37</channel>
-  <channel site="bein.com" lang="en" xmltv_id="AlkassFour.qa" site_id="sports#36">36</channel>
-  <channel site="bein.com" lang="en" xmltv_id="AlkassOne.qa" site_id="sports#33">33</channel>
-  <channel site="bein.com" lang="en" xmltv_id="AlkassSeven.qa" site_id="sports#39">39</channel>
-  <channel site="bein.com" lang="en" xmltv_id="AlkassSix.qa" site_id="sports#38">38</channel>
-  <channel site="bein.com" lang="en" xmltv_id="AlkassThree.qa" site_id="sports#35">35</channel>
-  <channel site="bein.com" lang="en" xmltv_id="AlkassTwo.qa" site_id="sports#34">34</channel>
   <channel site="bein.com" lang="en" xmltv_id="Baraem.qa" site_id="entertainment#31">31</channel>
   <channel site="bein.com" lang="en" xmltv_id="BBCEarthMiddleEast.uk" site_id="entertainment#25">25</channel>
   <channel site="bein.com" lang="en" xmltv_id="beIN4K.qa" site_id="sports#15">15</channel>
