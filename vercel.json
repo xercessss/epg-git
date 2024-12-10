@@ -2,7 +2,7 @@
   "crons": [
     {
       "path": "/api/grab",
-      "schedule": "0 15 * * *" // Adjust this cron expression as needed
+      "schedule": "0 15 * * *" 
     }
   ]
 }
