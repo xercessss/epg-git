@@ -1,0 +1,24 @@
+name: Daily Deployment
+
+on:
+  schedule:
+    - cron: '30 15 * * *'  # This cron expression means "at 00:00 UTC every day"
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Build the project
+        run: npm run build  # Adjust if your build command is different
+
+      - name: Deploy to Vercel
+        env:
+          VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}  # Add your Vercel token in GitHub Secrets
+        run: npx vercel --prod --confirm
