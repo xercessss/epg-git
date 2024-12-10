@@ -1,12 +1,18 @@
-export default async function handler(req, res) {
-  // Import any necessary modules or commands
-  const { exec } = require("child_process");
+import { exec } from 'child_process';
 
-  // Replace with your actual npm command
+export const dynamic = 'force-dynamic'; // Ensure the function runs every time it's called
 
-exec("npm config set cache /tmp/.npm && npm run grab -- --site=bein.com --lang=en", (error, stdout, stderr) => {
-  if (error) {
-    return res.status(500).json({ error: stderr });
-  }
-  res.status(200).json({ output: stdout });
-});
+export default function handler(req, res) {
+    exec('npm run grab -- --site=bein.com --lang=en', (error, stdout, stderr) => {
+        if (error) {
+            console.error(`Error executing command: ${error.message}`);
+            return res.status(500).json({ error: error.message });
+        }
+        if (stderr) {
+            console.error(`stderr: ${stderr}`);
+            return res.status(500).json({ error: stderr });
+        }
+        console.log(`stdout: ${stdout}`);
+        return res.status(200).json({ output: stdout });
+    });
+}
