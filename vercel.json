@@ -1,8 +1,0 @@
-{
-  "crons": [
-    {
-      "path": "/api/grab",
-      "schedule": "0 15 * * *" 
-    }
-  ]
-}
