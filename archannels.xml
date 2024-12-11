@@ -301,5 +301,53 @@
   <channel site="sky.com" lang="en" xmltv_id="TNTSports3.uk" site_id="5032">TNT Sports 3</channel>
   <channel site="sky.com" lang="en" xmltv_id="TNTSports4.uk" site_id="3141">TNT Sports 4</channel>
   <channel site="sky.com" lang="en" xmltv_id="TNTSports4HD.uk" site_id="4040">TNTSports4 HD</channel>
+  <channel site="dstv.com" lang="en" xmltv_id="MNet.za" site_id="zaf#101">M-Net HD</channel>
+  <channel site="dstv.com" lang="en" xmltv_id="MMovies2.za" site_id="zaf#106">M Movies 2</channel>
+  <channel site="dstv.com" lang="en" xmltv_id="MMovies3.za" site_id="zaf#107">M Movies 3</channel>
+  <channel site="dstv.com" lang="en" xmltv_id="MMovies4.za" site_id="zaf#108">M Movies 4</channel>
+  <channel site="dstv.com" lang="en" xmltv_id="SuperSportEvents.za" site_id="zaf#199">SS Events</channel>
+  <channel site="dstv.com" lang="en" xmltv_id="SuperSportBLITZ.za" site_id="zaf#200">SS BLITZ</channel>
+  <channel site="dstv.com" lang="en" xmltv_id="SuperSportGRANDSTAND.za" site_id="zaf#201">SS GRANDSTAND</channel>
+  <channel site="dstv.com" lang="en" xmltv_id="SuperSportPL.za" site_id="zaf#203">SS Premier League</channel>
+  <channel site="dstv.com" lang="en" xmltv_id="SuperSportLaLiga.za" site_id="zaf#204">SS La Liga</channel>
+  <channel site="dstv.com" lang="en" xmltv_id="SuperSportFootball.za" site_id="zaf#205">SS Football</channel>
+  <channel site="dstv.com" lang="en" xmltv_id="SuperSportVariety1.za" site_id="zaf#206">SS Variety 1</channel>
+  <channel site="dstv.com" lang="en" xmltv_id="SuperSportVariety2.za" site_id="zaf#207">SS Variety 2</channel>
+  <channel site="dstv.com" lang="en" xmltv_id="SuperSportVariety3.za" site_id="zaf#208">SS Variety 3</channel>
+  <channel site="dstv.com" lang="en" xmltv_id="SuperSportVariety4.za" site_id="zaf#209">SS Variety 4</channel>
+  <channel site="dstv.com" lang="en" xmltv_id="SuperSportTENNIS.za" site_id="zaf#214">SS TENNIS</channel>
+  <channel site="dstv.com" lang="en" xmltv_id="Espn1.za" site_id="zaf#218">ESPN HD</channel>
+  <channel site="dstv.com" lang="en" xmltv_id="Espn2.za" site_id="zaf#219">ESPN 2 HD</channel>
+  <channel site="dstv.com" lang="en" xmltv_id="Racing240.za" site_id="zaf#240">Racing 240</channel>
+  <channel site="dstv.com" lang="en" xmltv_id="MAXIMO1.za" site_id="zaf#241">MAXIMO 1</channel>
+  <channel site="dstv.com" lang="en" xmltv_id="BBCEarthAfrica.uk" site_id="zaf#184">BBC Earth HD</channel>
+  <channel site="dstv.com" lang="en" xmltv_id="SuperSportAction.za" site_id="zaf#210">SS Action</channel>
+  <channel site="dstv.com" lang="en" xmltv_id="SuperSportCricket.za" site_id="zaf#212">SS CRICKET</channel>
+  <channel site="dstv.com" lang="en" xmltv_id="SuperSportGolf.za" site_id="zaf#213">SS GOLF</channel>
+  <channel site="dstv.com" lang="en" xmltv_id="SuperSportMotorsport.za" site_id="zaf#215">SS MOTORSPORT</channel>
+  <channel site="dstv.com" lang="en" xmltv_id="SuperSportPSL.za" site_id="zaf#202">SS PSL</channel>
+  <channel site="dstv.com" lang="en" xmltv_id="SuperSportRugby.za" site_id="zaf#211">SS RUGBY</channel>
+  <channel site="dstv.com" lang="en" xmltv_id="WildEarth.uk" site_id="zaf#183">WildEarth</channel>
+  <channel site="canalplus.com" lang="fr" xmltv_id="CANAL+SPORT1.sn" site_id="sn#180625">CANAL+ SPORT 1</channel>
+  <channel site="canalplus.com" lang="fr" xmltv_id="CANAL+SPORT2.sn" site_id="sn#180124">CANAL+ SPORT 2</channel>
+  <channel site="canalplus.com" lang="fr" xmltv_id="CANAL+SPORT3.sn" site_id="sn#180149">CANAL+ SPORT 3</channel>
+  <channel site="canalplus.com" lang="fr" xmltv_id="CANAL+SPORT4.sn" site_id="sn#180393">CANAL+ SPORT 4</channel>
+  <channel site="canalplus.com" lang="fr" xmltv_id="CANAL+SPORT5.sn" site_id="sn#180394">CANAL+ SPORT 5</channel>
+  <channel site="canalplus.com" lang="fr" xmltv_id="CANAL+CINEMAOUEST.sn" site_id="sn#180016">CANAL+ CINEMA OUEST</channel>
+  <channel site="canalplus.com" lang="fr" xmltv_id="CANAL+PREMIEREOUEST.sn" site_id="sn#180018">CANAL+ PREMIERE OUEST</channel>
+  <channel site="canalplus.com" lang="fr" xmltv_id="CANAL+CINEMACENTRE.sn" site_id="sn#180125">CANAL+ CINEMA CENTRE</channel>
+  <channel site="canalplus.com" lang="fr" xmltv_id="CANAL+PREMIERECENTRE.sn" site_id="sn#180129">CANAL+ PREMIERE CENTRE</channel>
+  <channel site="canalplus.com" lang="fr" xmltv_id="CANAL+FAMILYCENTRE.sn" site_id="sn#180144">CANAL+ FAMILY CENTRE</channel>
+  <channel site="canalplus.com" lang="fr" xmltv_id="WILDEARTH.sn" site_id="sn#180212">WILDEARTH</channel>
+  <channel site="canalplus.com" lang="fr" xmltv_id="CANAL+ELLES.sn" site_id="sn#180214">TRACE AFRICA AFRIQUE</channel>
+  <channel site="canalplus.com" lang="fr" xmltv_id="CANAL+ELLES.sn" site_id="sn#180302">CANAL+ ELLES</channel>
+  <channel site="canalplus.com" lang="fr" xmltv_id="CANAL+FAMILYOUEST.sn" site_id="sn#180403">CANAL+ FAMILY OUEST</channel>
+  <channel site="canalplus.com" lang="fr" xmltv_id="MEDI1TV.sn" site_id="sn#180574">MEDI1 TV</channel>
+  <channel site="canalplus.com" lang="fr" xmltv_id="TRACEGOSPEL.sn" site_id="sn#180620">TRACE GOSPEL</channel>
+  <channel site="canalplus.com" lang="fr" xmltv_id="TRACEKITOKO.sn" site_id="sn#180621">TRACE KITOKO</channel>
+  <channel site="canalplus.com" lang="fr" xmltv_id="CANAL+ACTIONCENTRE.sn" site_id="sn#180626">CANAL+ ACTION CENTRE</channel>
+  <channel site="canalplus.com" lang="fr" xmltv_id="CANAL+POP.sn" site_id="sn#180628">CANAL+ POP</channel>
+  <channel site="canalplus.com" lang="fr" xmltv_id="CANAL+ACTIONOUEST.sn" site_id="sn#180645">CANAL+ ACTION OUEST</channel>
+  <channel site="canalplus.com" lang="fr" xmltv_id="CANAL+DOCS.sn" site_id="sn#180980">CANAL+ DOCS</channel>
 </channels>
 
