@@ -81,7 +81,6 @@
   <channel site="osn.com" lang="en" xmltv_id="CartoonNetworkArabic.ae" site_id="TCN">Cartoon Network</channel>
   <channel site="osn.com" lang="en" xmltv_id="Cinema1.ae" site_id="CM1">Alfa Cinema 1</channel>
   <channel site="osn.com" lang="en" xmltv_id="Cinema2.ae" site_id="CM2">Alfa Cinema 2</channel>
-  <channel site="osn.com" lang="en" xmltv_id="CNBCEurope.uk" site_id="CNB">CNBC</channel>
   <channel site="osn.com" lang="en" xmltv_id="CNNArabic.ae" site_id="CNN">CNN</channel>
   <channel site="osn.com" lang="en" xmltv_id="CrimePlusInvestigation.uk" site_id="CAI">Crime &amp; Investigation Network</channel>
   <channel site="osn.com" lang="en" xmltv_id="DiscoveryChannelMiddleEastAfrica.us" site_id="DSC">Discovery HD</channel>
@@ -120,7 +119,6 @@
   <channel site="elcinema.com" lang="en" xmltv_id="OSNMoviesPremiere.ae" site_id="1213">OSN Movies Premiere</channel>
   <channel site="elcinema.com" lang="en" xmltv_id="OSNMoviesComedy.ae" site_id="1231">OSN Movies Comedy</channel>
   <channel site="elcinema.com" lang="en" xmltv_id="OSNYaHala" site_id="1205">OSN Ya Hala</channel>
-  <channel site="elcinema.com" lang="en" xmltv_id="OSNTVKids" site_id="1232">OSN TV Kids</channel>
   <channel site="elcinema.com" lang="en" xmltv_id="OSNTVComedy" site_id="1257">OSN TV Comedy</channel>
   <channel site="elcinema.com" lang="en" xmltv_id="NationalGeographic" site_id="1266">National Geographic</channel>
   <channel site="elcinema.com" lang="en" xmltv_id="Discovery" site_id="1272">Discovery</channel>
@@ -161,35 +159,11 @@
   <channel site="elcinema.com" lang="en" xmltv_id="MBCPlusDrama.ae" site_id="1131">MBC Drama +</channel>
   <channel site="elcinema.com" lang="en" xmltv_id="MixBelAraby.eg" site_id="1371">Mix Bel Araby</channel>
   <channel site="elcinema.com" lang="en" xmltv_id="MTV.lb" site_id="1296">MTV</channel>
-  <channel site="elcinema.com" lang="en" xmltv_id="NessmaElJadida.tn" site_id="1304">Nessma</channel>
-  <channel site="elcinema.com" lang="en" xmltv_id="NileComedy.eg" site_id="1158">Nile Comedy</channel>
-  <channel site="elcinema.com" lang="en" xmltv_id="NileDrama.eg" site_id="1156">Nile Drama</channel>
-  <channel site="elcinema.com" lang="en" xmltv_id="NileLife.eg" site_id="1159">Nile Life</channel>
-  <channel site="elcinema.com" lang="en" xmltv_id="OmanTV.om" site_id="1317">Oman</channel>
-  <channel site="elcinema.com" lang="en" xmltv_id="OnDrama.eg" site_id="1134">ON Drama</channel>
-  <channel site="elcinema.com" lang="en" xmltv_id="OnE.eg" site_id="1203">ON E</channel>
-  <channel site="elcinema.com" lang="en" xmltv_id="QatarTelevision.qa" site_id="1319">Qatar</channel>
-  <channel site="elcinema.com" lang="en" xmltv_id="RotanaAflamPlusHD.sa" site_id="1218">Rotana Movies+</channel>
-  <channel site="elcinema.com" lang="en" xmltv_id="RotanaCinemaEgypt.eg" site_id="1148">Rotana Cinema Masr</channel>
-  <channel site="elcinema.com" lang="en" xmltv_id="RotanaCinemaKSA.sa" site_id="1289">Rotana Cinema</channel>
-  <channel site="elcinema.com" lang="en" xmltv_id="RotanaClassic.sa" site_id="1217">Rotana Classic</channel>
-  <channel site="elcinema.com" lang="en" xmltv_id="RotanaComedy.sa" site_id="1358">Rotana Comedy</channel>
-  <channel site="elcinema.com" lang="en" xmltv_id="RotanaDrama.sa" site_id="1147">Rotana Drama</channel>
-  <channel site="elcinema.com" lang="en" xmltv_id="RotanaKhalijia.sa" site_id="1149">Rotana Khalejia</channel>
-  <channel site="elcinema.com" lang="en" xmltv_id="RotanaKids.sa" site_id="1356">Rotana Kids</channel>
-  <channel site="elcinema.com" lang="en" xmltv_id="RotanaPlusHD.sa" site_id="1365">Rotana+ HD</channel>
-  <channel site="elcinema.com" lang="en" xmltv_id="SharjahTV.ae" site_id="1188">Sharjah TV</channel>
-  <channel site="elcinema.com" lang="en" xmltv_id="SyriaDrama.sy" site_id="1300">Syria Drama</channel>
-  <channel site="elcinema.com" lang="en" xmltv_id="SyriaTV.tr" site_id="1338">Syria TV</channel>
   <channel site="shahid.mbc.net" lang="en" xmltv_id="AlArabiyaBusiness.ae" site_id="1003218">Al Arabiya Business</channel>
   <channel site="shahid.mbc.net" lang="en" xmltv_id="AlHadath.ae" site_id="387288">Al Hadath</channel>
   <channel site="shahid.mbc.net" lang="en" xmltv_id="Asharq.ae" site_id="862837">Asharq</channel>
   <channel site="shahid.mbc.net" lang="en" xmltv_id="AsharqDiscovery.sa" site_id="1001845">Asharq Discovery</channel>
   <channel site="shahid.mbc.net" lang="en" xmltv_id="AsharqDocumentary.sa" site_id="997605">Asharq Documentary</channel>
-  <channel site="shahid.mbc.net" lang="en" xmltv_id="EuronewsEnglish.fr" site_id="952479">euronews english</channel>
-  <channel site="shahid.mbc.net" lang="en" xmltv_id="EuronewsFrench.fr" site_id="952484">euronews french</channel>
-  <channel site="shahid.mbc.net" lang="en" xmltv_id="FashionTVAsia.fr" site_id="996375">Fashion TV</channel>
-  <channel site="shahid.mbc.net" lang="en" xmltv_id="FightSports.us" site_id="901453">FIGHT Sports</channel>
   <channel site="shahid.mbc.net" lang="en" xmltv_id="MBC1.ae" site_id="387238">MBC1</channel>
   <channel site="shahid.mbc.net" lang="en" xmltv_id="MBC2.ae" site_id="400917">MBC2</channel>
   <channel site="shahid.mbc.net" lang="en" xmltv_id="MBC3.ae" site_id="409385">MBC3</channel>
@@ -268,7 +242,6 @@
   <channel site="sky.com" lang="en" xmltv_id="SkyShowcasePlus1.uk" site_id="1277">SkyShowcase+1</channel>
   <channel site="sky.com" lang="en" xmltv_id="SkySportsArena.uk" site_id="3839">SkySp Arena</channel>
   <channel site="sky.com" lang="en" xmltv_id="SkySportsArenaHD.uk" site_id="3940">SkySp ArenaHD</channel>
-  <channel site="sky.com" lang="en" xmltv_id="SkySportsBoxOffice.uk" site_id="1034">SkySpBoxOff</channel>
   <channel site="sky.com" lang="en" xmltv_id="SkySportsCricket.uk" site_id="1302">SkySp Cricket</channel>
   <channel site="sky.com" lang="en" xmltv_id="SkySportsCricketHD.uk" site_id="4081">SkySpCricket HD</channel>
   <channel site="sky.com" lang="en" xmltv_id="SkySportsF1.uk" site_id="1306">SkySp F1</channel>
