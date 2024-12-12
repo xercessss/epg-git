@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
+  <channel site="osn.com" lang="en" xmltv_id="OSNMoviesAction.ae" site_id="AHD">OSN| Movies Action</channel>
+  <channel site="osn.com" lang="en" xmltv_id="OSNMoviesPremiere.ae" site_id="OM1">OSN| Movies Premiere</channel>
   <channel site="osn.com" lang="en" xmltv_id="OSNMoviesHorror.ae" site_id="OCM">OSN| Movies Horror</channel>
   <channel site="osn.com" lang="en" xmltv_id="OSNMoviesFamily.ae" site_id="OFM">OSN| Movies Family</channel>
-  <channel site="osn.com" lang="en" xmltv_id="OSNMoviesAction.ae" site_id="AHD">OSN| Movies Action</channel>
   <channel site="osn.com" lang="en" xmltv_id="OSNMoviesHollywood.ae" site_id="OPR">OSN|Movies Hollywood</channel>
   <channel site="osn.com" lang="en" xmltv_id="OSNMoviesPremiere.ae" site_id="OM1">OSN| Movies Premiere</channel>
 </channels>
