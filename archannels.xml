@@ -73,13 +73,8 @@
   <channel site="osn.com" lang="en" xmltv_id="OSNShowcaseClassics.ae" site_id="OST">OSN Showcase Classics</channel>
   <channel site="osn.com" lang="en" xmltv_id="OSNOne.ae" site_id="OTO">OSN One</channel>
   <channel site="osn.com" lang="en" xmltv_id="DiscoveryID.ae" site_id="DCX">OSN Discovery ID</channel>
-  <channel site="osn.com" lang="en" xmltv_id="AlSafwa.ae" site_id="SAF">OSN Al Safwa</channel>
-  <channel site="osn.com" lang="en" xmltv_id="AlYawm.ae" site_id="YAW">OSN Alfa Al Yawm</channel>
   <channel site="osn.com" lang="en" xmltv_id="AnimalPlanet.ae" site_id="APL">OSN Animal Planet</channel>
   <channel site="osn.com" lang="en" xmltv_id="BloombergTVEurope.uk" site_id="BTV">OSN Bloomberg</channel>
-  <channel site="osn.com" lang="en" xmltv_id="CartoonNetworkArabic.ae" site_id="TCN">OSN Cartoon Network</channel>
-  <channel site="osn.com" lang="en" xmltv_id="Cinema1.ae" site_id="CM1">OSN Cinema 1</channel>
-  <channel site="osn.com" lang="en" xmltv_id="Cinema2.ae" site_id="CM2">OSN Cinema 2</channel>
   <channel site="osn.com" lang="en" xmltv_id="CNNArabic.ae" site_id="CNN">OSN CNN</channel>
   <channel site="osn.com" lang="en" xmltv_id="CrimePlusInvestigation.uk" site_id="CAI">OSN Investigation Network</channel>
   <channel site="osn.com" lang="en" xmltv_id="DiscoveryChannelMiddleEastAfrica.us" site_id="DSC">OSN Discovery HD</channel>
@@ -91,7 +86,6 @@
   <channel site="osn.com" lang="en" xmltv_id="MoonbugKids.uk" site_id="MBU">OSN Moonbug Kids</channel>
   <channel site="osn.com" lang="en" xmltv_id="MTV00s.uk" site_id="VH1">OSN MTV 00s</channel>
   <channel site="osn.com" lang="en" xmltv_id="MTVLive.uk" site_id="MTL">OSN MTV Live HD</channel>
-  <channel site="osn.com" lang="en" xmltv_id="MusicNow.ae" site_id="NOW">OSN Music Now</channel>
   <channel site="osn.com" lang="en" xmltv_id="NickelodeonArabia.ae" site_id="NIC">OSN Nickelodeon HD</channel>
   <channel site="osn.com" lang="en" xmltv_id="NickJrArabia.ae" site_id="NJR">OSN Nick Jr</channel>
   <channel site="osn.com" lang="en" xmltv_id="NicktoonsArabia.ae" site_id="NKT">OSN NickToons HD</channel>
