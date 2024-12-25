@@ -33,9 +33,9 @@ export class GuideManager {
       .orderBy([(channel: Channel) => channel.xmltv_id])
       .uniqBy((channel: Channel) => `${channel.xmltv_id}:${channel.site}:${channel.lang}`)
       .map((channel: Channel) => {
-        // Check if site is 'bein.com' and prepend "AR|" to the channel name
+        // Check if site is 'bein.com' and prepend "AR|" to the channel name and append " HD"
         if (channel.site === 'bein.com') {
-          channel.name = `AR| ${channel.name}`;
+          channel.name = `AR| ${channel.name} HD`;
         }
 
         // Check if site is 'osn.com' and modify the channel name accordingly
